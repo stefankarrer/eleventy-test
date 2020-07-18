@@ -1,4 +1,11 @@
 
+
+# sublime text project #
+######################
+*.sublime-project
+*.sublime-workspace
+
+
 # OS generated files #
 ######################
 .DS_Store
@@ -10,12 +17,6 @@ ehthumbs.db
 Thumbs.db
 
 
-
-
-# sublime text project #
-######################
-*.sublime-project
-*.sublime-workspace
 
 
 
