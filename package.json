@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-test",
+  "name": "eleventy-gh-pages",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefankarrer/eleventy-test.git"
+    "url": "git+https://github.com/whattheweathercando/eleventy-gh-pages.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stefankarrer/eleventy-gh-pages/issues"
+    "url": "https://github.com/whattheweathercando/eleventy-gh-pages/issues"
   },
-  "homepage": "https://github.com/stefankarrer/eleventy-gh-pages#readme",
+  "homepage": "https://github.com/whattheweathercando/eleventy-gh-pages#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
   }

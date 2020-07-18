@@ -14,6 +14,6 @@ module.exports = (eleventyConfig) => {
       'md',
       'njk',
     ],
-    pathPrefix: '/eleventy-test/', // omit this line if using custom domain
+    pathPrefix: '/eleventy-gh-test/', // omit this line if using custom domain
   };
 };
