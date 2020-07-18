@@ -1,3 +1,6 @@
-# eleventy-test
+# eleventy-gh-pages
 
-Github pages and Eleventy Static Site Generator
+Eleventy Static Site Generator
+and
+Github pages 
+ 
